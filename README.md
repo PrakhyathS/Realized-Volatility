@@ -1,4 +1,4 @@
-# Realized Volatility Prediction Project
+# Realized Volatility Prediction
 
 ## Overview
 
